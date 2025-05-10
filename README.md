@@ -18,5 +18,5 @@
 
 # thanks for using wetsock!
 > thank you!
-> the repo is [here](https://github.com/skm150214)
+> the repo is [here](https://github.com/skm150214/WetSock)
 
